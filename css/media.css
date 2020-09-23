@@ -1,0 +1,534 @@
+@media(min-width:991px)and (max-width:1199px) {
+
+    .banner-text h2 {
+        font-size: 51px;
+    }
+
+    #work {
+        padding-top: 40px;
+        padding-bottom: 15px;
+    }
+
+    .feedback-text h4 {
+        padding-bottom: 4px;
+    }
+
+
+
+}
+
+@media(min-width:768px)and (max-width:991px) {
+
+    .navbar-toggler {
+        color: #fff;
+        font-size: 20px;
+
+    }
+
+    .navbar-nav {
+        background: #403081;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::before {
+
+        left: 50%;
+
+        opacity: 0;
+        transform: translateX(-50%);
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link.active::before {
+        opacity: 1;
+        width: 15%;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link:hover::before {
+        opacity: 1;
+        width: 15%;
+    }
+
+    .banner-text h2 {
+        font-size: 59px;
+        padding-bottom: 34px;
+
+    }
+
+    .banner-text p {
+        font-size: 19px;
+        padding-bottom: 15px;
+    }
+
+    #work {
+        padding-top: 22px;
+        padding-bottom: -1px;
+    }
+
+    #story {
+        padding: 35px 0;
+        text-align: center;
+    }
+
+    .story-item p {
+        font-size: 19px;
+    }
+
+    .story-item span {
+        font-size: 19px;
+    }
+
+    #contact {
+        padding: 19px 0;
+    }
+
+    .contact-item h3 {
+        font-size: 23px;
+        text-align: center;
+    }
+
+    .contact-box form input {
+        width: 296px;
+        height: 49px;
+    }
+
+    .contact-box textarea {
+        width: 303px;
+        height: 136px;
+
+    }
+
+    #footer {
+        padding-top: 25px;
+        padding-bottom: 14px;
+        background: url(../images/fotter.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .btn button {
+
+        margin-top: 10px;
+    }
+
+    .h5,
+    h5 {
+        font-size: 2.25rem;
+    }
+
+    .col-lg-9.col-sm-9 {
+        margin-left: -9%;
+    }
+
+    .last-left h6 span {
+        padding: 0px 21px;
+        color: #fff;
+        font: 400;
+        color: #bebbc8;
+        font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+    }
+
+    .last-left h6 {
+        padding-top: 30px;
+        color: #fff;
+        font: 400;
+        color: #bebbc8;
+        font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+        text-align: center;
+    }
+
+
+
+
+
+
+
+
+
+
+}
+
+@media(min-width:576px)and (max-width:767px) {
+
+    .navbar-toggler {
+        color: #fff;
+        font-size: 20px;
+
+    }
+
+    .navbar-nav {
+        background: #403081;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::before {
+
+        left: 50%;
+
+        opacity: 0;
+        transform: translateX(-50%);
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link.active::before {
+        opacity: 1;
+        width: 15%;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link:hover::before {
+        opacity: 1;
+        width: 15%;
+    }
+
+    .banner-text h2 {
+
+        font-size: 33px;
+
+    }
+
+    .banner-text p {
+        font-size: 14px;
+        padding-bottom: 19px;
+    }
+
+    #work {
+        padding-top: 22px;
+        padding-bottom: -1px;
+    }
+
+    #story {
+        padding: 35px 0;
+        text-align: center;
+    }
+
+    .story-item p {
+        font-size: 19px;
+    }
+
+    .story-item span {
+        font-size: 19px;
+    }
+
+    .nav-pills .nav-link {
+        margin-top: 10px;
+    }
+
+    .mb-3,
+    .my-3 {
+        margin-bottom: -2rem !important;
+    }
+
+    .contact-box a {
+        margin-left: 40%;
+        margin-bottom: 15px;
+    }
+
+    .contact-box form input {
+        width: 490px;
+        height: 48px;
+    }
+
+    .contact-box textarea {
+        width: 495px;
+        height: 161px;
+
+        padding-left: 4px;
+    }
+
+    .brand-imga img {
+        padding-right: 50px;
+    }
+
+    .contact-img h3 {
+        padding-top: 37px;
+    }
+
+    #contact {
+        padding: 36px 0;
+    }
+
+    .contact-item h3 {
+        text-align: center;
+    }
+
+    #tabs {
+        padding: 16px 0;
+    }
+
+    #footer {
+        padding-top: 22px;
+        padding-bottom: 11px;
+    }
+
+    .h5,
+    h5 {
+        font-size: 3.25rem;
+    }
+
+    .btn button {
+        margin-top: 10px;
+    }
+
+    .feedback-text h4 {
+
+        padding-bottom: 5px;
+    }
+
+    .fed-head {
+        padding-top: 30px;
+    }
+
+    .last-left h6 span {
+        padding: 0px 21px;
+        color: #fff;
+        font: 400;
+        color: #bebbc8;
+        font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+    }
+
+    .last-left h6 {
+        padding-top: 30px;
+        color: #fff;
+        font: 400;
+        color: #bebbc8;
+        font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+        text-align: center;
+    }
+
+}
+
+@media(max-width:575.98px) {
+
+    .navbar-toggler {
+        color: #fff;
+        font-size: 20px;
+
+    }
+
+    .navbar-nav {
+        background: #403081;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::before {
+
+        left: 50%;
+
+        opacity: 0;
+        transform: translateX(-50%);
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link.active::before {
+        opacity: 1;
+        width: 15%;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link:hover::before {
+        opacity: 1;
+        width: 15%;
+    }
+
+    .banner-text h2 {
+
+        font-size: 33px;
+
+    }
+
+    .banner-text p {
+        font-size: 14px;
+        padding-bottom: 19px;
+    }
+
+    #story {
+        padding: 35px 0;
+        text-align: center;
+    }
+
+    .story-item p {
+        font-size: 12px;
+    }
+
+    .story-item span {
+        font-size: 12px;
+        padding-bottom: 34px;
+    }
+
+    #work {
+        padding-top: 26px;
+    }
+
+    .work-item {
+        padding-top: 36px;
+    }
+
+    .work-text h4 {
+        padding-top: 22px;
+
+    }
+
+    .work-item {
+        padding-top: 8px;
+    }
+
+    .all-team {
+        padding-top: 5px;
+    }
+
+    .team-text h4 {
+        font-size: 30px;
+    }
+
+    .team-text p {
+        font-size: 18px;
+    }
+
+    #tabs {
+        padding: 6px 0;
+    }
+
+    .nav-pills .nav-link {
+        margin-top: 5px;
+    }
+
+    .tabs-head h6 {
+        font-size: 11px;
+    }
+
+    .tabs-item {
+        padding-top: 17px;
+    }
+
+    .fed-head {
+        padding-top: 23px;
+
+    }
+
+    .feedback-text h4 {
+        color: #fff;
+        font: 400;
+        font-size: 13px;
+        line-height: 24px;
+        font-family: 'Playfair Display', serif;
+        padding-bottom: 25px;
+    }
+
+    .feedback-text h4 {
+        font-size: 13px;
+        line-height: 24px;
+        padding-bottom: 0px;
+    }
+
+    .slick-dots {
+        bottom: -60px;
+    }
+
+    #contact {
+        padding: 26px 0;
+    }
+
+    /* .contact-item h3 {
+        font-size: 20px;
+        text-align: center;
+        margin-top: 47px;
+    }
+
+
+    .contact-box a {
+        margin-left: 85px;
+        text-align: center;
+    }
+
+    .contact-img h3 {
+        font-size: 29px;
+        padding-top: 28px;
+        text-align: center;
+    }
+    .contact-item h3 {
+        font-size: 26px;
+    }*/
+
+    .brand-imga img {
+        margin: 0px 20px;
+    }
+
+    #footer {
+        padding-top: 5px;
+        padding-bottom: 11px;
+    }
+
+    .footer-fast p {
+        font-size: 16px;
+        padding-top: 1px;
+    }
+
+    .footer-secund h3 {
+        padding-top: 1px;
+        padding-bottom: 0px;
+    }
+
+    .fotter-thard h3 {
+        padding-top: 9px;
+        padding-bottom: 9px;
+    }
+
+       .btn button {
+
+        margin-top: 10px;
+    }
+
+
+    .h5,
+    h5 {
+        font-size: 0.25rem;
+    }
+
+    .last-left h6 span {
+        padding: 0px 21px;
+        color: #fff;
+        font: 400;
+        color: #bebbc8;
+        font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+    }
+
+    .last-left h6 {
+        padding-top: 30px;
+        color: #fff;
+        font: 400;
+        color: #bebbc8;
+        font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .fotter-thard h3 {
+        font-size: 24px;
+        text-align: center;
+
+    }
+
+    .fotter-thard {
+        text-align: center;
+    }
+
+    .le {
+        text-align: center;
+    }
+
+    .ra {
+        text-align: center;
+    }
+
+}
